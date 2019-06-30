@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
 @import "bootstrap";
 
 .clear {
@@ -39,6 +41,8 @@
     color: black;
     font-size: 25px;
     border-bottom: 1px solid #dfdfdf;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 header {
@@ -48,3 +52,38 @@ header {
 hr {
     clear:both;
 }
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
